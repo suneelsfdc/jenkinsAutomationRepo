@@ -1,0 +1,15 @@
+<apex:page controller="AsciiConverterController" sidebar="false" standardStylesheets="false" showHeader="false">
+	<style>
+		.textArea{
+			height: 250px;
+			width: 535px;
+		}
+	</style>	
+	<apex:form >
+		<apex:inputTextarea value="{!inputString}" styleClass="textArea"/>
+		<apex:commandButton value="Find Ascii" action="{!findAscii}" rerender="indentationPanel"/>
+		<apex:outputPanel id="indentationPanel">
+			<apex:inputTextarea value="{!outputString}" styleClass="textArea"/>
+		</apex:outputPanel>
+	</apex:form>	
+</apex:page>

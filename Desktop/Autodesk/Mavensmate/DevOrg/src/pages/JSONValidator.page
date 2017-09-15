@@ -1,0 +1,127 @@
+<apex:page controller="JSONValidatorController" showHeader="false" sidebar="false">
+	<style>
+		.txtArea{
+			height: 400px;
+			width: 600px;
+		}
+		.instructions{
+			font-size: 20px;
+			margin-top: 5px;
+			margin-bottom: 5px;
+		}
+		.container{
+			margin-left: 10px;
+		}
+	</style>
+	<script>
+		var str;
+		var inputObj;	
+		function validate(){
+			try{
+				str = document.getElementById('inputBox').value;
+				inputObj = JSON.parse(str);
+				outputText.innerHTML = 'Valid';
+				document.getElementById('outputText').style.color = 'green';
+			}catch(e){
+				outputText.innerHTML = e.message;
+				document.getElementById('outputText').style.color = 'red';
+			}			
+		}
+		function compress(){
+			try{
+				str = document.getElementById('inputBox').value;
+				var output = '';
+				
+				output = compressString(str);
+				outputText.innerHTML = 'Compressed';
+				document.getElementById('outputText').style.color = 'green';
+				document.getElementById('inputBox').value = output;
+			}catch(e){
+				outputText.innerHTML = e.message;
+				document.getElementById('outputText').style.color = 'red';
+			}
+		}
+		function compressString(input){
+			try{
+				var str = input;
+				input = '';
+				var qCounter = 0;
+				for(var i = 0; i < str.length; i++){
+					if(str[i] == '"'){
+						qCounter++;
+					}
+					if(qCounter%2 == 0 && isSpaceOrEnter(str.charCodeAt(i))){
+						console.log('output--:'+str.charCodeAt(i));
+						continue;
+					}
+					input += str[i];
+				}			
+			}catch(e){
+				outputText.innerHTML = e.message;
+				document.getElementById('outputText').style.color = 'red';
+			}			
+			return input;
+		}
+		function isSpaceOrEnter(x){
+			
+			if(x == 32 || x == 10 || x == 9){
+				console.log('-'+x+'*true');
+				return true;
+			}
+			return false;
+		}
+		function prettyPrint(){
+			try{
+				str = document.getElementById('inputBox').value;
+				var str = compressString(str);
+				var qCounter = 0;
+				var pCounter = 0;
+				var leadingTabs = '';
+				var output = '';
+				for(var i = 0; i < str.length; i++){
+					if(str[i] == '"'){
+						qCounter++;
+					}
+					if(str[i] == '(' || str[i] == ')'){
+						pCounter++;
+					}	
+
+					if(qCounter%2 == 0 && pCounter%2 == 0 && str[i] == '}'){
+						output += '\n';
+						leadingTabs = leadingTabs.substring(0,leadingTabs.length-1);
+						output += leadingTabs;
+					}					
+					output += str[i];
+					if(qCounter%2 == 0 && pCounter%2 == 0 && str[i] == ','){
+						output += '\n';
+						output += leadingTabs;
+					}else if(str[i] == ','){
+						output += ' ';
+					}		
+					if(qCounter%2 == 0 && pCounter%2 == 0 && str[i] == '{'){
+						output += '\n';
+						leadingTabs += '\t';
+						output += leadingTabs;
+					}				
+					if(qCounter%2 == 0 && pCounter%2 == 0 && str[i] == ':'){
+						output += ' ';
+					}													
+				}				
+				outputText.innerHTML = 'Pretty Print Done';
+				document.getElementById('outputText').style.color = 'green';
+				document.getElementById('inputBox').value = output;
+			}catch(e){
+				outputText.innerHTML = e.message;
+				document.getElementById('outputText').style.color = 'red';
+			}			
+		}
+	</script>	
+	<div class="container">
+		<div class="instructions">Paste the JSON you want to play with and use below buttons to get your task done</div>
+		<textArea class="txtArea" autofocus="true" id="inputBox"/><br/><br/>
+		<div id="outputText"></div><br/>
+		<button onclick="validate();">Validate</button>
+		<button onclick="prettyPrint();">Pretty Print</button>
+		<button onclick="compress();">Compress</button>
+	</div>
+</apex:page>

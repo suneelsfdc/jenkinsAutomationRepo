@@ -1,0 +1,9 @@
+<apex:page controller="ActionFunctionController">
+    <apex:form >
+        <apex:pageMessages ></apex:pageMessages>
+        <apex:actionFunction name="updAccount" action="{!updateAccount}" rerender="accountPanel">
+        </apex:actionFunction>
+        <apex:inputText value="{!name}"/>
+        <button onclick="updAccount();">Update Account</button>
+    </apex:form>
+</apex:page>

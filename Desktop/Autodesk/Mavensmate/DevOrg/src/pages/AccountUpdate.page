@@ -1,0 +1,9 @@
+<apex:page standardController="Account">
+    <apex:outputPanel id="accPanel">
+        <apex:form id="accForm">
+            Name:
+            <apex:inputField value="{!account.name}"/>
+            <apex:commandButton value="Update Name" action="{!save}" rerender="accPanel"/>
+        </apex:form>    
+    </apex:outputPanel>
+</apex:page>

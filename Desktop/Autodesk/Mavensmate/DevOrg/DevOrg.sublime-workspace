@@ -1,0 +1,1380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"on",
+				"onclick\t(String)"
+			],
+			[
+				"inputTe",
+				"apex:inputTextarea"
+			],
+			[
+				"des",
+				"PUBLIC deserialize(String jsonString, system.Type apexType) \tObject"
+			],
+			[
+				"show",
+				"showHeader\t(Boolean)"
+			],
+			[
+				"sta",
+				"standardStylesheets\t(Boolean)"
+			],
+			[
+				"get",
+				"PUBLIC getMessage() \tString"
+			],
+			[
+				"style",
+				"styleClass\t(String)"
+			],
+			[
+				"inputT",
+				"apex:inputTextarea"
+			],
+			[
+				"Curre",
+				"currentPage"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"ur",
+				"PUBLIC urlEncode(String s, String enc) \tString"
+			],
+			[
+				"Suppo",
+				"SupportChannel__c"
+			],
+			[
+				"subReg",
+				"subRegionToCountryMap"
+			],
+			[
+				"subRe",
+				"subRegionToCountryMap"
+			],
+			[
+				"regionTo",
+				"regionToSubRegionMap"
+			],
+			[
+				"Renew",
+				"RenewalsConsoleController"
+			],
+			[
+				"getUser",
+				"PUBLIC getUserId() \tString"
+			],
+			[
+				"Test",
+				"TestUtilityClass"
+			],
+			[
+				"ass",
+				"assertEquals()"
+			],
+			[
+				"remo",
+				"PUBLIC removeEnd(String toRemove) \tString"
+			],
+			[
+				"ALL",
+				"ALL_OPTIONS"
+			],
+			[
+				"contract",
+				"contractType"
+			],
+			[
+				"st",
+				"standardStylesheets\t(Boolean)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/pages/IndentationChecker.page",
+			"settings":
+			{
+				"buffer_size": 534,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/IndentationCheckerController.cls",
+			"settings":
+			{
+				"buffer_size": 1152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/pages/Json2Apex.page",
+			"settings":
+			{
+				"buffer_size": 154,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/JSON2ApexConverter.cls",
+			"settings":
+			{
+				"buffer_size": 433,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/pages/JSONValidator.page",
+			"settings":
+			{
+				"buffer_size": 3492,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "public class JSONValidatorController{\n\tpublic String inputString{get;set;}\n\tpublic PageReference validate(){\n\t\t\n\t\treturn null;\n\t}\n}",
+			"file": "src/classes/JSONValidatorController.cls",
+			"file_size": 128,
+			"file_write_time": 131404681847515543,
+			"settings":
+			{
+				"buffer_size": 131,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/Glossary.cls",
+			"settings":
+			{
+				"buffer_size": 333,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"MavensMate: Create Resource Bundle..."
+			],
+			[
+				"resource",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"deploy",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"create",
+				"MavensMate: Create Resource Bundle..."
+			],
+			[
+				"deplo",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"bund",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"bundle",
+				"MavensMate: Create Resource Bundle..."
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 600.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/DevOrg",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/DevOrg/config",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/DevOrg/src"
+	],
+	"file_history":
+	[
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/DevOrg/src/classes/AsciiConverterController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/DevOrg/src/pages/StringToAsciiConverter.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/DevOrg/src/package.xml",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/LiveAgentPSOHomeComponentController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/components/PartnerLiveAgent.component",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/ROM_PlaceOrderButton.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/ROM_PlaceOrderButtonCntrlr.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/EIDMUserDetail.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerLandingFeedController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CaseManagementLandingPage.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/CCO_ScheduleACallControllerTest.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/ECC_COPEtoSendWithUs.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/OrdrProcessingScheduledJobCtrl.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/ECC_ResendWelcomeEmail.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/ChatterUtility.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/OrdrProcessingBatch.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/CreateUserTriggerTest.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/Case_CustomerPortalSiteTemplate.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/Case_CustomerPortalCaseOptionsController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/components/cpInstalledLanguageFormFIeld.component",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/Case_CustomerCreateNewAPISuppController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CaseManagement_API_SupportForm.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/M2SOrderLineemailBatch.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/package.xml",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/QuestionListPage.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/ControllerQuestionList.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/PartnerSupport.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerCaseSupportController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/PartnerArticleView.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/PartnerCaseSupport.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/PJ51_ContactDistributionPage.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PJ51_ContactDistributionController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/triggers/CreateUserTrigger.trigger",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/components/PartnerCommunityHeader.component",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerCommunityHeaderController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/DisplayUnitController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/labels/CustomLabels.labels",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/TokenFlexBatchSchedulable.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/PartnerLanding.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/PartnerCommunityHeader.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/login.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PC_AutodeskLoginController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/PartnerAccountDetail.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/objects/PartnerCaseSupportHelpOptions__c.object",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/CCO_ConstantsUtility.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/resource-bundles/Schedule_To_Call_Files.resource/Schedule_to_Call_files/customJsRemoteBinding.js",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/Case_CustomerViewCases.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CaseManagement_ViewCases.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerOrdersController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/components/PartnerOrderTable.component",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerAccountFilterController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/TibcoInviteUserService.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/TibcoUserServicePort.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/TibcoInviteUserServiceBusinessParty.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/TibcoUserServiceParty.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/TibcoInviteUserServiceResponseHeader.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerSupportController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/LiveAgentPSOPreChat.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/components/LiveAgentGenericPreChat.component",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/PJ51_PSOCustomChatPage.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PJ51_PSOCustomChatController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/TibcoUserService.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/TibcoInviteUserServiceRequestHeader.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/TibcoInviteUserServiceCommon.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/AsyncTibcoInviteUserService.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/AsyncTibcoInviteUserServiceBusinessParty.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/wwwAutodeskComSchemasBusinessPartyv.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/P2C_ConstantsUtility.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/AsyncwwwAutodeskComItTibco.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerUtility.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerArticleViewExtension.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CustomException.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerNeedAssistanceController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/components/PartnerNeedAssistance.component",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/PartnerCaseTopicInput.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerCaseTopicInputController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/BaseClass.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/staticresources/Schedule_To_Call_Files.resource",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/RecordTypeUtility.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/PartnerSmartForm.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/Case_CustCreateTechSuppControllersTest.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/OauthServiceImpl.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/OauthServiceManager.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerInvoiceServiceUtility.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerInvoiceSearchController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/components/GoogleAnalyticsDataTracker.component",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/Case_CustomerPortalLandingPage.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/Case_CustIdeasandImprovementController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/Case_CustomerBaseTechSuppController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/ExodusException.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/ROM_RenewalOpportunityUtility.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/ROM_RenewalOpportunityService.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/ROM_PartnerRenewalOpptyTabControllerTest.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/CCO_ScheduleACallController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CCO_ScheduleACall.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CaseManagement_MyPhoneSupport.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CaseManagement_CloseCase.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CaseManagement_CaseDetails.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/LiveAgentPSOHomeComponent.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/callBackInfoForm.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/CCO_cancelAndConfirmationEmailTest.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/CCO_CustomLabelsUtility.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/resource-bundles/Schedule_To_Call_Files.resource/Schedule_to_Call_files/styles(1).css",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/SaC_LabelTranslator.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/staticresources/CaseManagementCssNew.resource",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/CallBackUtility.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/Case_CustomerPortalSiteTemplate.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/CallBackInfoController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CCO_AppointmentCancel.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/CCO_Customer_ConfirmationEmail.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/aura/RenewalsConsoleSearchFields/RenewalsConsoleSearchFieldsHelper.js",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/components/cpResellerViewComponent.component",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/components/cpMyAccountComponent.component",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CaseManagement_SupportNumbersTable.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/cpMyAccountComponentController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/CustomerPortal_PhoneSupportController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CaseManagement_ResellerViewPermissions.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/Case_CustomerCaseDetailsController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/pages/CustomerViewCases.page",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/RenewalsConsoleController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/RCSearchController.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/aura/RenewalsConsoleSearchFields/RenewalsConsoleSearchFields.cmp",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/TestUtilityClass.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerSearchTest.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/PartnerAccountTabControllerTest.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/classes/RenewalsConsoleControllerTest.cls",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/aura/RenewalsConsoleSearchFields/RenewalsConsoleSearchFieldsController.js",
+		"/C/Users/T_PellS/Desktop/Autodesk/Mavensmate/Autodesk Dev/src/components/cp_SiteWelcomeBanner.component"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			"*.cls",
+			"*",
+			"*.cls",
+			"*.pages",
+			"*.cls",
+			"Tibco*.cls",
+			"",
+			"*.cls",
+			"",
+			"*.cls",
+			"",
+			"*.page",
+			"",
+			"*.page",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"appointmentDelay",
+			"eventStartTime",
+			"businessEveningEndTime",
+			"currentDate",
+			"tmzUser",
+			"presentDateInUserTMZ",
+			"ownerIDMapForNextDates",
+			"timeSlotListPerDate",
+			"userTimeSlotMap",
+			"firstAgentId",
+			"selectedSlotin24Hour",
+			"firstAgentId",
+			"lockEvent",
+			"firstAgentId",
+			"agentIDs",
+			"releaseEvent",
+			"lockEvent",
+			"lockEventaction",
+			"createEventForLockingSelectedTime",
+			"lockingEventMessage",
+			"displaySelectedNote",
+			"VPA_Contract_Number__c",
+			"vpa",
+			"go to aoe car",
+			"goto aoe car",
+			"countrymap.",
+			"countrymap",
+			"LM_CountryGeoList__c",
+			"countrymap",
+			"country",
+			"DisplayUnitController",
+			"countrymap",
+			"countryMap",
+			"partnercommunity",
+			"partnercommunityheader",
+			"parnetcommunityheader",
+			"Geo__c",
+			"Login_Name__c",
+			"Duplicate_Username",
+			"help",
+			"previousDateAvailableTimeSlotMap",
+			"timeInUsersTMZ",
+			"tmzUser",
+			"getUserIdBySkills",
+			"u625",
+			"u626",
+			"u626_span",
+			"font_16",
+			"CCO_AppoinmentNotValid",
+			"timerValue",
+			"channelMap",
+			"selectQues",
+			"exception",
+			"calculateTimeSlots",
+			"contractTypeValue",
+			"partnerTypeValue",
+			"partner_ty",
+			"MandatoryList",
+			"Add communication recipient",
+			"add communi",
+			"editTable",
+			"conEdit",
+			"Mandatory_News_Letter__c",
+			"Partner_Type__c",
+			"Partner_Delegated_Admin__c",
+			"Mandatory_News_Letter__c",
+			"table",
+			"isMandNewsLetterEmpty",
+			"Program Responsibilities",
+			"Communication & Program Responsibilities",
+			"communication",
+			"pj51",
+			"getFeedItems",
+			"getChatterFeed",
+			"loggedInContact",
+			"PJ51_Not_A_Delegated_Admin_Msg",
+			"getChatterFeed",
+			"getFeedComments",
+			"getChatterComments",
+			"fetchChatterCommentAlerts",
+			"fetchChatterAlerts",
+			"feedPanelComm",
+			"processFeedData",
+			"feedWrapperList",
+			"feedWrapperJSON",
+			"feedsTableComm",
+			"feedWrapperList",
+			"PartnerFeedWrapper",
+			"feedCommsBody",
+			"comm",
+			"feedsTableComm",
+			"feedsTable",
+			"feedWrapperList",
+			"feedWrapperJSON",
+			"feedPanelComm",
+			"feedsTableComm",
+			"communicationsTab",
+			"feedsTableComm_wrapper",
+			"CommunicationsTabLink",
+			"communications",
+			"EIDMUserDetail",
+			"CreateEIDMUser",
+			"isnew",
+			"ECC_ResendWelcomeEmail",
+			"IsNewEIDMUser",
+			"channelMap",
+			"questionlist",
+			"ProcessOrders",
+			"OrdrProcessingBatch",
+			"CreateEIDMUser",
+			"submit",
+			"prdLineList",
+			"make_default_label",
+			"cope",
+			"publishorder",
+			"ADN_API_CUST",
+			"Product_Line_For_API_CUST",
+			"Case_API_Label",
+			"\"release",
+			"plPicklistVal",
+			"prdLineList",
+			"productList",
+			"productVersionList",
+			"productVersionList.",
+			"productVersionList",
+			"release",
+			"inst",
+			"questionList"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ucmType",
+			"ucmTopic",
+			"getArticlesWithRatings",
+			"getArticleRatings",
+			"TibcoInviteUserServiceBusinessParty",
+			"TibcoInviteUser",
+			"caseTopic",
+			"createCaseUrl",
+			"fillGeoRelatedPicklists",
+			"geoToRegionMap",
+			"regionToCountryMap",
+			"geoToSalesRegionMap"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/pages/IndentationChecker.page",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Visualforce.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/classes/IndentationCheckerController.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								744,
+								744
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 75.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/pages/Json2Apex.page",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Visualforce.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/classes/JSON2ApexConverter.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								433
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/pages/JSONValidator.page",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Visualforce.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 29.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/classes/JSONValidatorController.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/classes/Glossary.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								236,
+								236
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 130.0
+	},
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "DevOrg.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jsonvalid",
+				"src\\classes\\JSONValidatorController.cls"
+			],
+			[
+				"jsonvalidator",
+				"src\\pages\\JSONValidator.page"
+			],
+			[
+				"glossa",
+				"src\\classes\\Glossary.cls"
+			],
+			[
+				"json2apexconverter",
+				"src\\classes\\JSON2ApexConverter.cls"
+			],
+			[
+				"indentationcheckercontroller",
+				"src\\classes\\IndentationCheckerController.cls"
+			],
+			[
+				"rom_placeorderbuttoncntrlr",
+				"src\\classes\\ROM_PlaceOrderButtonCntrlr.cls"
+			],
+			[
+				"rom_placeorderbutton",
+				"src\\pages\\ROM_PlaceOrderButton.page"
+			],
+			[
+				"displayun",
+				"src\\classes\\DisplayUnitController.cls"
+			],
+			[
+				"tokenflexbatchschedulable",
+				"src\\classes\\TokenFlexBatchSchedulable.cls"
+			],
+			[
+				"m2sorderlineemailbatch",
+				"src\\classes\\M2SOrderLineemailBatch.cls"
+			],
+			[
+				"displayunitcontroller",
+				"src\\classes\\DisplayUnitController.cls"
+			],
+			[
+				"partnercommunityheader",
+				"src\\classes\\PartnerCommunityHeaderController.cls"
+			],
+			[
+				"pc_autodesklogincontroller",
+				"src\\classes\\PC_AutodeskLoginController.cls"
+			],
+			[
+				"login",
+				"src\\pages\\login.page"
+			],
+			[
+				"partnercommuni",
+				"src\\pages\\PartnerCommunityHeader.page"
+			],
+			[
+				"partnerland",
+				"src\\pages\\PartnerLanding.page"
+			],
+			[
+				"partnercommunityheadercontroller",
+				"src\\classes\\PartnerCommunityHeaderController.cls"
+			],
+			[
+				"partnerheader",
+				"src\\components\\PartnerCommunityHeader.component"
+			],
+			[
+				"partneraccountde",
+				"src\\pages\\PartnerAccountDetail.page"
+			],
+			[
+				"partnercasesupportcontroller",
+				"src\\classes\\PartnerCaseSupportController.cls"
+			],
+			[
+				"cco_schedu",
+				"src\\classes\\CCO_ScheduleACallController.cls"
+			],
+			[
+				"questionlist",
+				"src\\classes\\ControllerQuestionList.cls"
+			],
+			[
+				"cco_scheduleacallcontrollertest",
+				"src\\classes\\CCO_ScheduleACallControllerTest.cls"
+			],
+			[
+				"cco_scheduleacallcontroller",
+				"src\\classes\\CCO_ScheduleACallController.cls"
+			],
+			[
+				"partnerlan",
+				"src\\pages\\PartnerLanding.page"
+			],
+			[
+				"pj51_contactdistributioncontroller",
+				"src\\classes\\PJ51_ContactDistributionController.cls"
+			],
+			[
+				"pj51_contactdistributionpage",
+				"src\\pages\\PJ51_ContactDistributionPage.page"
+			],
+			[
+				"partnercases",
+				"src\\pages\\PartnerCaseSupport.page"
+			],
+			[
+				"chatterutility",
+				"src\\classes\\ChatterUtility.cls"
+			],
+			[
+				"partnerlandingfeedcontroller",
+				"src\\classes\\PartnerLandingFeedController.cls"
+			],
+			[
+				"partnerlanding",
+				"src\\pages\\PartnerLanding.page"
+			],
+			[
+				"case_customercreatenewapisuppcontroller",
+				"src\\classes\\Case_CustomerCreateNewAPISuppController.cls"
+			],
+			[
+				"cpinstalledlanguageformfield",
+				"src\\components\\cpInstalledLanguageFormFIeld.component"
+			],
+			[
+				"casemanagement_api",
+				"src\\pages\\CaseManagement_API_SupportForm.page"
+			],
+			[
+				"case_customerportalcaseoptionscontroller",
+				"src\\classes\\Case_CustomerPortalCaseOptionsController.cls"
+			],
+			[
+				"customerportalsite",
+				"src\\pages\\Case_CustomerPortalSiteTemplate.page"
+			],
+			[
+				"caselandingpage.",
+				"src\\pages\\CaseManagementLandingPage.page"
+			],
+			[
+				"eidmuser",
+				"src\\classes\\EIDMUserDetail.cls"
+			],
+			[
+				"partnercasetopi",
+				"src\\pages\\PartnerCaseTopicInput.page"
+			],
+			[
+				"partnerliveagent",
+				"src\\components\\PartnerLiveAgent.component"
+			],
+			[
+				"partnerarticleview",
+				"src\\pages\\PartnerArticleView.page"
+			],
+			[
+				"partnercasesupp",
+				"src\\pages\\PartnerCaseSupport.page"
+			],
+			[
+				"partnersupport",
+				"src\\pages\\PartnerSupport.page"
+			],
+			[
+				"partnersuppor",
+				"src\\classes\\PartnerSupportController.cls"
+			],
+			[
+				"controllerquestionlist",
+				"src\\classes\\ControllerQuestionList.cls"
+			],
+			[
+				"questionli",
+				"src\\pages\\QuestionListPage.page"
+			],
+			[
+				"cco_constantsutility",
+				"src\\classes\\CCO_ConstantsUtility.cls"
+			],
+			[
+				"ecc_copetosendwithus",
+				"src\\classes\\ECC_COPEtoSendWithUs.cls"
+			],
+			[
+				"eidmuserdetail",
+				"src\\classes\\EIDMUserDetail.cls"
+			],
+			[
+				"partnerorderscontroller",
+				"src\\classes\\PartnerOrdersController.cls"
+			],
+			[
+				"partnerordertable",
+				"src\\components\\PartnerOrderTable.component"
+			],
+			[
+				"partneraccountdet",
+				"src\\pages\\PartnerAccountDetail.page"
+			],
+			[
+				"casemanagementlan",
+				"src\\pages\\CaseManagementLandingPage.page"
+			],
+			[
+				"viewcases.page",
+				"src\\pages\\CaseManagement_ViewCases.page"
+			],
+			[
+				"customerviewcases.",
+				"src\\classes\\Case_CustomerViewCases.cls"
+			],
+			[
+				"partnersuppo",
+				"src\\pages\\PartnerSupport.page"
+			],
+			[
+				"caseviewcases",
+				"src\\pages\\CaseManagement_ViewCases.page"
+			],
+			[
+				"tibcoinviteuserservicebusinessparty",
+				"src\\classes\\TibcoInviteUserServiceBusinessParty.cls"
+			],
+			[
+				"tibcouserserviceport",
+				"src\\classes\\TibcoUserServicePort.cls"
+			],
+			[
+				"tibcouserserviceparty",
+				"src\\classes\\TibcoUserServiceParty.cls"
+			],
+			[
+				"tibcoinviteuserserviceparty",
+				"src\\classes\\TibcoInviteUserServiceBusinessParty.cls"
+			],
+			[
+				"tibcoinvite",
+				"src\\classes\\TibcoInviteUserServiceBusinessParty.cls"
+			],
+			[
+				"eidm",
+				"src\\classes\\EIDMUserDetail.cls"
+			],
+			[
+				"tibcoinviteuser",
+				"src\\classes\\TibcoInviteUserServiceResponseHeader.cls"
+			],
+			[
+				"partneracc",
+				"src\\classes\\PartnerAccountFilterController.cls"
+			],
+			[
+				"partnersupportco",
+				"src\\classes\\PartnerSupportController.cls"
+			],
+			[
+				"cco_scheduleacall",
+				"src\\pages\\CCO_ScheduleACall.page"
+			],
+			[
+				"partnersu",
+				"src\\pages\\PartnerSupport.page"
+			],
+			[
+				"partnercasesu",
+				"src\\pages\\PartnerCaseSupport.page"
+			],
+			[
+				"",
+				"src\\pages\\PartnerSupport.page"
+			],
+			[
+				"partnercasesuppo",
+				"src\\pages\\PartnerCaseSupport.page"
+			],
+			[
+				"asynctibcoinviteuserservice",
+				"src\\classes\\AsyncTibcoInviteUserService.cls"
+			],
+			[
+				"tibcoinviteuserservicerequestheader",
+				"src\\classes\\TibcoInviteUserServiceRequestHeader.cls"
+			],
+			[
+				"tibcoinviteuserservicecommon",
+				"src\\classes\\TibcoInviteUserServiceCommon.cls"
+			],
+			[
+				"wwwautodeskcomschemasbusinesspartyv",
+				"src\\classes\\wwwAutodeskComSchemasBusinessPartyv.cls"
+			],
+			[
+				"userservices",
+				"src\\classes\\TibcoUserService.cls"
+			],
+			[
+				"liveagentgenericprechat",
+				"src\\components\\LiveAgentGenericPreChat.component"
+			],
+			[
+				"liveagentpsoprechat",
+				"src\\pages\\LiveAgentPSOPreChat.page"
+			],
+			[
+				"p2c_constantsutility",
+				"src\\classes\\P2C_ConstantsUtility.cls"
+			],
+			[
+				"pj51_psocustomchatcontroller",
+				"src\\classes\\PJ51_PSOCustomChatController.cls"
+			],
+			[
+				"liveagentpsohomecomponentcontroller",
+				"src\\classes\\LiveAgentPSOHomeComponentController.cls"
+			],
+			[
+				"partnerutility",
+				"src\\classes\\PartnerUtility.cls"
+			],
+			[
+				"partnerarticleviewextension",
+				"src\\classes\\PartnerArticleViewExtension.cls"
+			],
+			[
+				"partnerart",
+				"src\\pages\\PartnerArticleView.page"
+			],
+			[
+				"partnersupportcontroller",
+				"src\\classes\\PartnerSupportController.cls"
+			],
+			[
+				"pj51_psocustomchatpage",
+				"src\\pages\\PJ51_PSOCustomChatPage.page"
+			],
+			[
+				"partnerliveage",
+				"src\\components\\PartnerLiveAgent.component"
+			],
+			[
+				"partnerneedassistancecontroller",
+				"src\\classes\\PartnerNeedAssistanceController.cls"
+			],
+			[
+				"partnerne",
+				"src\\components\\PartnerNeedAssistance.component"
+			],
+			[
+				"casemanagementviewcase",
+				"src\\pages\\CaseManagement_ViewCases.page"
+			],
+			[
+				"partnercasetopic",
+				"src\\pages\\PartnerCaseTopicInput.page"
+			],
+			[
+				"quest",
+				"src\\pages\\QuestionListPage.page"
+			],
+			[
+				"customexception",
+				"src\\pages\\CustomException.page"
+			],
+			[
+				"partnercasetopicinputcontroller",
+				"src\\classes\\PartnerCaseTopicInputController.cls"
+			],
+			[
+				"baseclass",
+				"src\\classes\\BaseClass.cls"
+			],
+			[
+				"partnerneed",
+				"src\\components\\PartnerNeedAssistance.component"
+			],
+			[
+				"recordtypeutility",
+				"src\\classes\\RecordTypeUtility.cls"
+			],
+			[
+				"partnersmar",
+				"src\\pages\\PartnerSmartForm.page"
+			],
+			[
+				"question",
+				"src\\pages\\QuestionListPage.page"
+			],
+			[
+				"partnerneedassistance",
+				"src\\components\\PartnerNeedAssistance.component"
+			],
+			[
+				"questionlistpage",
+				"src\\pages\\QuestionListPage.page"
+			],
+			[
+				"rom_renewalopportunityutility",
+				"src\\classes\\ROM_RenewalOpportunityUtility.cls"
+			],
+			[
+				"rom_renewalopportunityservice",
+				"src\\classes\\ROM_RenewalOpportunityService.cls"
+			],
+			[
+				"exodus",
+				"src\\classes\\ExodusException.cls"
+			],
+			[
+				"rom_partnerrenewalopptytabcontrollertest",
+				"src\\classes\\ROM_PartnerRenewalOpptyTabControllerTest.cls"
+			],
+			[
+				"partnercasecontroller",
+				"src\\classes\\PartnerCaseTopicInputController.cls"
+			],
+			[
+				"scheduleacall",
+				"src\\pages\\CCO_ScheduleACall.page"
+			],
+			[
+				"oauthserviceimpl",
+				"src\\classes\\OauthServiceImpl.cls"
+			],
+			[
+				"oauthservicemanager",
+				"src\\classes\\OauthServiceManager.cls"
+			],
+			[
+				"partnerinvoiceserviceutility",
+				"src\\classes\\PartnerInvoiceServiceUtility.cls"
+			],
+			[
+				"partnerinvoicesearc",
+				"src\\classes\\PartnerInvoiceSearchController.cls"
+			],
+			[
+				"case_customerbasetechsuppcontroller",
+				"src\\classes\\Case_CustomerBaseTechSuppController.cls"
+			],
+			[
+				"case_custideasandimprovementcontroller",
+				"src\\classes\\Case_CustIdeasandImprovementController.cls"
+			],
+			[
+				"case_custcreatetechsuppcontrollerstest",
+				"src\\classes\\Case_CustCreateTechSuppControllersTest.cls"
+			],
+			[
+				"cco_confirmationemailtest",
+				"src\\classes\\CCO_cancelAndConfirmationEmailTest.cls"
+			],
+			[
+				"cco_customlabelsutility",
+				"src\\classes\\CCO_CustomLabelsUtility.cls"
+			],
+			[
+				"liveagentps",
+				"src\\pages\\LiveAgentPSOHomeComponent.page"
+			],
+			[
+				"need",
+				"src\\components\\PartnerNeedAssistance.component"
+			],
+			[
+				"casemanagement_viewcases",
+				"src\\pages\\CaseManagement_ViewCases.page"
+			],
+			[
+				"customlabelutil",
+				"src\\classes\\CCO_CustomLabelsUtility.cls"
+			],
+			[
+				"customlabelu",
+				"src\\classes\\CCO_CustomLabelsUtility.cls"
+			],
+			[
+				"case_customerpo",
+				"src\\pages\\Case_CustomerPortalLandingPage.page"
+			],
+			[
+				"tibcoinvit",
+				"src\\classes\\TibcoInviteUserService.cls"
+			],
+			[
+				"scheduleacallcon",
+				"src\\classes\\CCO_ScheduleACallController.cls"
+			],
+			[
+				"casemanagementlose",
+				"src\\pages\\CaseManagement_CloseCase.page"
+			],
+			[
+				"casemanagement_myphonesupport",
+				"src\\pages\\CaseManagement_MyPhoneSupport.page"
+			],
+			[
+				"case_details.page",
+				"src\\pages\\CaseManagement_CaseDetails.page"
+			],
+			[
+				"sac_la",
+				"src\\pages\\SaC_LabelTranslator.page"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 535.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

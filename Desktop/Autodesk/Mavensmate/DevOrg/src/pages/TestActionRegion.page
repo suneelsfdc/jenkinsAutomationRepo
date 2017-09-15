@@ -1,0 +1,17 @@
+<apex:page controller="TestActionRegionClass">
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>Congratulations</h1>
+  This is your new Page
+  <!-- End Default Content REMOVE THIS -->
+  <apex:outputPanel id="dummyPanel">
+      Here is the dummy panel
+      <apex:repeat value="{!dummyList}" var="file">
+          {!file}
+      </apex:repeat>
+  </apex:outputPanel>
+  <apex:form >
+      <apex:actionRegion >
+  <apex:commandButton value="Click me" action="{!clickme}" rerender="dummyPanel"/>
+  </apex:actionRegion>
+  </apex:form>
+</apex:page>

@@ -1,0 +1,6 @@
+<apex:page controller="JSON2ApexConverter">
+	<apex:form >
+		<apex:commandButton value="Get JSON" action="{!getJSON}"/>
+		{!str}
+	</apex:form>
+</apex:page>

@@ -1,0 +1,15 @@
+<apex:page controller="IndentationCheckerController" sidebar="false" standardStylesheets="false" showHeader="false">
+	<style>
+		.textArea{
+			height: 550px;
+			width: 535px;
+		}
+	</style>	
+	<apex:form >
+		<apex:inputTextarea value="{!inputString}" styleClass="textArea"/>
+		<apex:commandButton value="Beautify Code" action="{!beautifyCode}" rerender="indentationPanel"/>
+		<apex:outputPanel id="indentationPanel">
+			<apex:inputTextarea value="{!outputString}" styleClass="textArea"/>
+		</apex:outputPanel>
+	</apex:form>	
+</apex:page>

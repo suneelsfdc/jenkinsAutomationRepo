@@ -1,0 +1,18 @@
+{
+    "projectName": "DevOrg",
+    "username": "suneelcando@gmail.com",
+    "id": "88ce31c0-4362-11e7-83cd-f56e831ca7b1",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://na50.salesforce.com",
+    "workspace": "C:\\Users\\T_PellS\\Desktop\\Autodesk\\Mavensmate",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomObject",
+        "StaticResource"
+    ]
+}

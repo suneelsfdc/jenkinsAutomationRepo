@@ -1,0 +1,6 @@
+<apex:page controller="SampleController">
+    <apex:pageMessages ></apex:pageMessages>
+    <apex:form >
+        <apex:commandButton value="Update Acc AND Con" action="{!updateAccCon}"/>
+    </apex:form>
+</apex:page>
